@@ -1,4 +1,4 @@
-# vue3-map
+# vue3-widget-demo
 
 ## Project setup
 ```
